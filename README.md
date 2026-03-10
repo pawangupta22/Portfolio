@@ -1,19 +1,6 @@
 # Portfolio
-This portfolio is developed by Pawan 
+This portfolio is developed by Pawan <br>
 
-HTML STRUCTURE 
-Header (Navigation)
-        ↓
-Hero Section (Introduction)
-        ↓
-About Section
-        ↓
-Skills Section
-        ↓
-Projects Section
-        ↓
-Certification Section
-        ↓
-Contact Section
-        ↓
-Footer
+<b>HTML STRUCTURE</b> <br>
+Header (Navigation) -> Hero Section (Introduction)  -> About Section -> Skills Section -> Projects Section -> Certification Section ->  Contact Section -> Footer
+        
